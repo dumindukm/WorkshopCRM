@@ -1,2 +1,2 @@
 # WorkshopCRM
-This repo is for practice system design and design paterns.
+This repo is for practice system design and design patterns.
